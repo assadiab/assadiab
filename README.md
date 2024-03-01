@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Hi there 👋 I'm Assa 👩🏿‍🎓 🧬💻
 
@@ -11,7 +11,10 @@
 
 📫 **Let's get in touch ! :** assadiabirapro@gmail.com 📫
 
-</center>
+Connect with me on LinkedIn : 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/40px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
+
+</div>
 
 ## Languages & Tools
 
