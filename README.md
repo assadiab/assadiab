@@ -11,7 +11,8 @@
 
 Connect with me on LinkedIn :
 
-[LinkedIn](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/assadiabira/)
+
 
 <!--
 🖥️ **Projects 💡**
