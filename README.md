@@ -9,10 +9,7 @@
  💡 Always seeking new opportunities to learn and grow in this exciting field.
  ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems. 
 
-📫 **Let's get in touch ! :** [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:assadiabirapro@gmail.com) 📫
-
-Connect with me on LinkedIn : 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/40px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
+📫 **Let's get in touch ! :** 📫 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:assadiabirapro@gmail.com) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/40px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
 
 </div>
 
