@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Assa 👩🏿‍🎓
 
-
-# Hey there, I'm Assa! 👋🏿
-
 I'm a bioinformatics student at Paris Cité, passionate about biology and technology. 🧬💻
 
 ## About Me
