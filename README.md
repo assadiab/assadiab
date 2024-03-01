@@ -1,3 +1,5 @@
+<center>
+
 # Hi there 👋 I'm Assa 👩🏿‍🎓 🧬💻
 
 ## About Me
@@ -9,52 +11,7 @@
 
 📫 **Let's get in touch ! :** assadiabirapro@gmail.com 📫
 
-Connect with me on LinkedIn : 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/40px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
-
-
-
-
-
-<!--
-🖥️ **Projects 💡**
-
-## Bioinformatics
-
-- **Title:** vide
-  - **Language:** 
-- **Title:** Dinucleotide frequencies in model organisms
-  - **Language:** 
-- **Title:** Pangenome graph clustering
-  - **Language:** 
-- **Title:** Rosalind problems solutions
-  - **Language:** 
-
-## Statistics
-
-- **Title:** HIV protease study
-  - **Language:** 
-- **Title:** Exam results study
-  - **Language:** 
-- **Title:** World happiness study
-  - **Language:** 
-- **Title:** Books study
-  - **Language:** 
-
-## Other
-
-- **Title:** Schizophrenia WGS study
-  - **Language:** 
-- **Title:** Psy-NER model
-  - **Language:** 
-- **Title:** Web API for a neural network model
-  - **Language:** 
-- **Title:** E-commerce database modelization
-  - **Language:** 
-- **Title:** Housing prices prediction
-  - **Language:**
- 
--->
+</center>
 
 ## Languages & Tools
 
@@ -69,3 +26,4 @@ Here are some of the languages and tools I'm proficient in or currently learning
 - LaTeX 📝 
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat about biology, computer science, or anything else interesting! 😊
+
