@@ -2,6 +2,10 @@
 
 # Hi there 👋 I'm Assa 👩🏿‍🎓 🧬💻
 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
 ## About Me
 
 - 🎓 Currently pursuing a degree in bioinformatics.
