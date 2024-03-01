@@ -9,9 +9,8 @@
 
 📫 **Let's get in touch ! :** assadiabirapro@gmail.com 📫
 
-Connect with me on LinkedIn :
+Connect with me on LinkedIn : [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/240px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/assadiabira/)
 
 
 <!--
