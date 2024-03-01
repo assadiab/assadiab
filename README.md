@@ -13,9 +13,11 @@
 </div>
 
 <div align="center">
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNOCwzSDhWM2g0djNIN3YySDh6bTAtMTFMMTIuNSwzIDguNSwxMi41djE4LjVoMy4xQzE0LjUsMTUuMSwxMywxMCwxMiw5LjVsNC4xLTIuOEwxMi41LDMgOC41LDMuNUwyOCwxMi41bC0zLjUsNC4xTDEyLjUsMjguNWwxLjUsMTQuNWMxLjgsMS44LDQuMiwyLjksNS4zLDIuOWwxNC4zLTMuOGw0LjEsMi44TDEyLjUsMzQuNSBMMTguNSwzNS41bC0xLjUsMTQuNWwtMi45LTMuN2wxLjUtMTQuNWwxNC41LTMuNWwyLjgsNC4xTDE4LjUsMzkgTDguNSwzIFoiLz4KPC9zdmc+Cg==)](mailto:your_email@gmail.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNOCwzSDhWM2g0djNIN3YySDh6bTAtMTFMMTIuNSwzIDguNSwxMi41djE4LjVoMy4xQzE0LjUsMTUuMSwxMywxMCwxMiw5LjVsNC4xLTIuOEwxMi41LDMgOC41LDMuNUwyOCwxMi41bC0zLjUsNC4xTDEyLjUsMjguNWwxLjUsMTQuNWMxLjgsMS44LDQuMiwyLjksNS4zLDIuOWwxNC4zLTMuOGw0LjEsMi44TDEyLjUsMzQuNSBMMTguNSwzNS41bC0xLjUsMTQuNWwtMi45LTMuN2wxLjUtMTQuNWwxNC41LTMuNWwyLjgsNC4xTDE4LjUsMzkgTDguNSwzIFoiLz4KPC9zdmc+Cg==)](mailto:your_email@gmail.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=plastic&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNOCwzSDhWM2g0djNIN3YySDh6bTAtMTFMMTIuNSwzIDguNSwxMi41djE4LjVoMy4xQzE0LjUsMTUuMSwxMywxMCwxMiw5LjVsNC4xLTIuOEwxMi41LDMgOC41LDMuNUwyOCwxMi41bC0zLjUsNC4xTDEyLjUsMjguNWwxLjUsMTQuNWMxLjgsMS44LDQuMiwyLjksNS4zLDIuOWwxNC4zLTMuOGw0LjEsMi44TDEyLjUsMzQuNSBMMTguNSwzNS41bC0xLjUsMTQuNWwtMi45LTMuN2wxLjUtMTQuNWwxNC41LTMuNWwyLjgsNC4xTDE4LjUsMzkgTDguNSwzIFoiLz4KPC9zdmc+Cg==)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=round&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
 
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:assadiabirapro@gmail.com)
