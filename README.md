@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in bioinformatics.
-- 😄 Interested in medtech, computer vision, and machine learning.
-- 💡 Always seeking new opportunities to learn and grow in this exciting field.
-- ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems.
+ 🎓 Currently pursuing a degree in bioinformatics.
+ 😄 Interested in medtech, computer vision, and machine learning.
+ 💡 Always seeking new opportunities to learn and grow in this exciting field.
+ ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems.
 
 📫 **Let's get in touch ! :** assadiabirapro@gmail.com 📫
 
