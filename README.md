@@ -10,7 +10,8 @@
 📫 **Let's get in touch ! :** assadiabirapro@gmail.com 📫
 
 Connect with me on LinkedIn : 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/20px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/40px-Linkedin.svg.png)](https://www.linkedin.com/in/assadiabira/)
+
 
 
 
