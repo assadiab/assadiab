@@ -4,10 +4,10 @@
 
 ## About Me 🌟
 
-🎓 Currently pursuing a degree in bioinformatics.
- 😄 Interested in medtech, computer vision, and machine learning.
- 💡 Always seeking new opportunities to learn and grow in this exciting field.
- ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems.
+🎓 Currently pursuing a degree in bioinformatics. <br>
+ 😄 Interested in medtech, computer vision, and machine learning. <br>
+ 💡 Always seeking new opportunities to learn and grow in this exciting field. <br>
+ ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems. <br>
  
 </div>
  
@@ -21,6 +21,7 @@ Here are some of the languages and tools I'm proficient in or currently learning
 - SQL 🛢️
 - Bash/Shell 💻
 - HTML/CSS 🌐
+- Pymol 🔬
 - LaTeX 📝
 
 
