@@ -28,7 +28,6 @@ Here are some of the languages and tools I'm proficient in or currently learning
 - Pymol 🔬
 - LaTeX 📝
 
-
 Feel free to reach out if you have any questions, suggestions, or just want to chat about biology, computer science, or anything else ! 😊
 
 <div align="center">
