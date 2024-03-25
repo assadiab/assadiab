@@ -16,9 +16,13 @@
 Here are some of the languages and tools I'm proficient in or currently learning:
 
 - Python 🐍
+- TensorFlow 🧠
+- PyTorch 🔥
 - C 🖥️
+- OpenCV 📸
 - R 📊
 - SQL 🛢️
+- MATLAB 🧮
 - Bash/Shell 💻
 - HTML/CSS 🌐
 - Pymol 🔬
