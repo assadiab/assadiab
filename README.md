@@ -18,14 +18,14 @@ Here are some of the languages and tools I'm proficient in or currently learning
 - Python 🐍
 - TensorFlow 🧠
 - PyTorch 🔥
-- C 🖥️
+- C/C++ 🖥️
+- Java ☕️
 - OpenCV 📸
 - R 📊
 - SQL 🛢️
 - MATLAB 🧮
 - Bash/Shell 💻
 - HTML/CSS 🌐
-- Pymol 🔬
 - LaTeX 📝
 
 Feel free to reach out if you have any questions, or just want to chat about biology, computer science, or anything else ! 😊
