@@ -4,7 +4,7 @@
 
 ## About Me 🌟
 
-🎓 Currently pursuing a degree in bioinformatics. <br>
+🎓 Currently pursuing a master degree in bioinformatics. <br>
  😄 Interested in medtech, computer vision, and machine learning. <br>
  💡 Always seeking new opportunities to learn and grow in this exciting field. <br>
  ⚡ Goal: To contribute to research by using computer tools to solve complex biological problems. <br>
