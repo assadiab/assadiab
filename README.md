@@ -24,17 +24,20 @@ My edge: I write production code *and* understand the biology behind the data.
 
 **Deep Learning & Computer Vision**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Bioinformatics & Omics**  
+**Bioinformatics · Single-Cell · Multi-Omics**  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)  
-`BioPython` · `Scanpy` · `AnnData` · `Seurat` · `DESeq2` · `limma` · `Bioconductor` · `ComplexHeatmap` · `fgsea` · `MODELLER`
+`BioPython` · `Scanpy` · `AnnData` · `Seurat` · `DESeq2` · `limma` · `Bioconductor` · `ComplexHeatmap` · `fgsea` · `MODELLER`  
+`scRNA-seq` · `multi-omics` · `Matplotlib` · `Plotly` · `ggplot2`
 
 **Software Engineering**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -62,6 +65,10 @@ Molecular energy minimization via steepest descent — analytical & numerical gr
 `Python` · `NumPy` · `Matplotlib`
 
 ---
+
+## 📬 Let's get in touch
+
+Always happy to connect, exchange ideas, or just talk science and code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-assadiabira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assadiabira/)
 [![Email](https://img.shields.io/badge/Email-assadiabirapro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:assadiabirapro@gmail.com)
