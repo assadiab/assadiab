@@ -9,7 +9,7 @@ Paris, France
 
 ```python
 profile = {
-    "role"   : "Bioimage Processing Engineer @ CNRS",
+    "role"   : "Bioimage Processing Engineer",
     "focus"  : ["Medical Imaging", "Deconvolution", "3D Segmentation", "Production ML Systems"],
     "status" : "Seeking ML / Computer Vision / Bioimage Engineer CDI · Paris · Sept. 2026",
 }
