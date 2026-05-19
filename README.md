@@ -9,8 +9,8 @@ Paris, France
 
 ```python
 profile = {
-    "role"   : "Bioimage Processing Engineer",
-    "focus"  : ["Medical Imaging", "Deconvolution", "3D Segmentation", "Production ML Systems"],
+    "role"   : "Bioimage Processing Engineer · ML Systems · Computer Vision",
+    "focus"  : ["Production ML Systems", "3D Segmentation", "Medical Imaging", "Bioimage Analysis"],
     "status" : "Seeking ML / Computer Vision / Bioimage Engineer CDI · Paris · Sept. 2026",
 }
 ```
@@ -33,18 +33,22 @@ My edge: I write production code *and* understand the biology behind the data.
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
+**Scientific Imaging & Bioimage Analysis**  
+`Cellpose` · `StarDist` · `Ilastik` · `Huygens` · `QuPath` · `ImageJ/Fiji` · `Bio-Formats` · `DICOM` · `OME-TIFF` · `OME-ZARR` 
+
 **Bioinformatics · Single-Cell · Multi-Omics**  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)  
 `BioPython` · `Scanpy` · `AnnData` · `Seurat` · `DESeq2` · `limma` · `Bioconductor` · `ComplexHeatmap` · `fgsea` · `MODELLER`  
-`scRNA-seq` · `multi-omics` · `Matplotlib` · `Plotly` · `ggplot2`
+`scRNA-seq` · `spatial transcriptomics` · `multi-omics` · `Matplotlib` · `Plotly` · `ggplot2`
 
-**Software Engineering**  
+**Software Engineering & Infrastructure**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
