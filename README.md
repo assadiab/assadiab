@@ -1,7 +1,7 @@
 ## Hi, I'm Assa !
 
-**Deep Learning for Biomedical Imaging**  
-Bioimage Processing Engineer @ [Institut Cochin](https://www.institutcochin.fr/) · CNRS · France BioImaging (2024–2026)  
+**Deep Learning Systems for Biomedical Imaging**  
+Bioimage Software Engineer @ [Institut Cochin](https://www.institutcochin.fr/) · CNRS · France BioImaging (2024–2026)  
 MSc Bioinformatics @ [Université Paris Cité](https://www.masterbbi.fr/)  
 Paris, France
 
@@ -9,13 +9,16 @@ Paris, France
 
 ```python
 profile = {
-    "role"   : "Bioimage Processing Engineer · ML Systems · Computer Vision",
-    "focus"  : ["Production ML Systems", "3D Segmentation", "Medical Imaging", "Bioimage Analysis"],
-    "status" : "Seeking ML / Computer Vision / Bioimage Engineer CDI · Paris · Sept. 2026",
+    "role": "Bioimage Software Engineer · ML Systems · Computer Vision",
+    "focus": ["Computer Vision", "ML Integration","3D Image Analysis", "Biomedical Imaging"],
+    "status": "Seeking CDI · Bioimage / Computer Vision / Software Enginner · Paris · Sept. 2026",
 }
 ```
 
-I build production ML systems for biomedical imaging — designing and deploying image analysis pipelines used daily by researchers on a [national imaging infrastructure](https://france-bioimaging.org/site/imagic/).  
+I build software systems for biomedical image analysis, enabling large-scale processing and interactive visualization of 3D biological data used daily by researchers on a [national imaging infrastructure](https://france-bioimaging.org/site/imagic/).
+
+My work sits at the intersection of software engineering and bioimaging, where I integrate computer vision and machine learning methods into production systems rather than standalone research prototypes.
+
 My edge: I write production code *and* understand the biology behind the data.
 
 ---
