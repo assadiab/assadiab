@@ -45,12 +45,6 @@ imaging data, registered as a research infrastructure (DOI `10.57889/cid`).
 **Scientific Imaging & Bioimage Analysis**  
 `Cellpose` · `StarDist` · `Ilastik` · `Huygens` · `QuPath` · `ImageJ/Fiji` · `Bio-Formats` · `DICOM` · `OME-TIFF` · `OME-ZARR` 
 
-**Bioinformatics · Single-Cell · Multi-Omics**  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)  
-`BioPython` · `Scanpy` · `AnnData` · `Seurat` · `DESeq2` · `limma` · `Bioconductor` · `ComplexHeatmap` · `fgsea` · `MODELLER`  
-`scRNA-seq` · `spatial transcriptomics` · `multi-omics` · `Matplotlib` · `Plotly` · `ggplot2`
-
 **Software Engineering & Infrastructure**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
