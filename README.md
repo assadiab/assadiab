@@ -65,8 +65,8 @@ imaging data, registered as a research infrastructure (DOI `10.57889/cid`).
 Selected research and engineering projects in biomedical imaging, ML systems, and computational biology.
 ### 🔬 [Interactive Zarr Explorer](https://github.com/assadiab/Interactive_Zarr_Explorer)
 
-Interactive web platform for visualization, exploration and analysis of large-scale OME-Zarr biomedical imaging datasets.
-Multiscale rendering · efficient chunk streaming · annotations · microscopy workflows
+Interactive web platform for visualization, exploration and analysis of large-scale OME-Zarr biomedical imaging datasets.   
+Multiscale rendering · efficient chunk streaming · annotations · microscopy workflows   
 `TypeScript` · `React` · `OME-Zarr` · `WebGL` · `Three.js`
 
 ### 🩺 [Breast Cancer Detection — RSNA](https://github.com/assadiab/Breast_Cancer_Detection)
